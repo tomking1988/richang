@@ -11,3 +11,6 @@
    BST to double linkedlist
    	问题链接里有解答，就不多说了。Java解答时注意是传址而不像C++传指针，设一全局变量存lastNode 就好
 	
+晚茶：
+    Reverse Integer
+	http://oj.leetcode.com/problems/reverse-integer/
