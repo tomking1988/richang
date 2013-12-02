@@ -4,4 +4,13 @@
    Two Sum
 	http://oj.leetcode.com/problems/two-sum/
 	
+   Tow Sum solution:
+   	solution1: 双循环找target，O（n*n）
+   	solution2: 开map存数组和每个数的index，然后循环一次，遇到一个数就检查(target-num[i])是否在map中，在的话返回结果，复杂度java,o(n), C++,o(nlogn)
+
+   BST to double linkedlist
+   	问题链接里有解答，就不多说了。Java解答时注意是传址而不像C++传指针，设一全局变量存lastNode 就好
 	
+晚茶：
+    Reverse Integer
+	http://oj.leetcode.com/problems/reverse-integer/
