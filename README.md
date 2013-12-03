@@ -7,3 +7,5 @@ richang
   1. 程序名命名为： 前两个单词+__name, example: reversePolish__tang
   2. 每天题目在problems里更，暂定三更，早上9点，下午3点，晚上8点，大家都可以更，基本保持在每次更新一易一难
   3. 解答提交至solutions
+
+P.S. 题目可以更新在wiki里面
